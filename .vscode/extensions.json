@@ -1,0 +1,46 @@
+{
+    /**
+    *! https://draculatheme.com/blog/best-free-fonts-for-programming
+    */
+    "recommendations": [
+        /**
+         *! Code Quality
+         */
+        "dbaeumer.vscode-eslint",
+        "stylelint.vscode-stylelint",
+        "esbenp.prettier-vscode",
+
+        /**
+         *? Utility Tools
+         */
+        "formulahendry.auto-rename-tag",
+        "naumovs.color-highlight",
+        "anseki.vscode-color",
+        "streetsidesoftware.code-spell-checker-russian",
+
+        /**
+         ** Theme
+         */
+        "jdinhlife.gruvbox",
+        "tomphilbin.gruvbox-themes",
+        "aaron-bond.better-comments",
+        "miguelsolorio.fluent-icons",
+        "vscode-icons-team.vscode-icons",
+
+        /**
+         *TODO DX Enhancement
+         */
+        "mgmcdermott.vscode-language-babel",
+        "graphql.vscode-graphql",
+        "jpoissonnier.vscode-styled-components",
+        "coenraads.bracket-pair-colorizer-2",
+        "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
+        "redhat.vscode-yaml",
+        "mikestead.dotenv",
+        "codezombiech.gitignore",
+        "formulahendry.terminal",
+        "pflannery.vscode-versionlens",
+        "k--kato.intellij-idea-keybindings"
+    ]
+}

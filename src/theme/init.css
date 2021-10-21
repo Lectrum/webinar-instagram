@@ -1,0 +1,14 @@
+@import 'reset-css';
+@import './palette';
+@import './globals';
+@import './welcome';
+
+
+/* Components */
+@import './components/content';
+@import './components/header';
+@import './components/photo';
+@import './components/photos';
+@import './components/profile';
+@import './components/footer';
+@import './components/stories';

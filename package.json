@@ -1,0 +1,36 @@
+{
+    "name": "webinar-instagram",
+    "version": "1.0.2",
+    "author": {
+        "name": "Andrey Prisniak",
+        "email": "aprisniak@lectrum.io"
+    },
+    "scripts": {
+        "dev": "react-app-rewired start",
+        "build": "react-app-rewired build",
+        "test": "react-app-rewired test",
+        "eject": "react-scripts eject"
+    },
+    "dependencies": {
+        "classnames": "2.3.1",
+        "react": "17.0.2",
+        "react-dom": "17.0.2",
+        "react-spring": "9.3.0",
+        "react-vanilla-tilt": "1.0.0",
+        "reset-css": "^5.0.1",
+        "sanitize.css": "13.0.0"
+    },
+    "devDependencies": {
+        "@babel/core": "7.15.8",
+        "@babel/preset-env": "7.15.8",
+        "@babel/register": "7.15.3",
+        "@sotream/eslint-config-react-js": "0.1.0",
+        "app-root-path": "3.0.0",
+        "babel-plugin-dynamic-import-node": "2.3.3",
+        "cross-env": "7.0.3",
+        "customize-cra": "1.0.0",
+        "postcss-preset-env": "6.7.0",
+        "react-app-rewired": "2.1.8",
+        "react-scripts": "4.0.3"
+    }
+}

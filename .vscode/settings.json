@@ -1,0 +1,35 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "editor.fontFamily": "'Fira Code', Hack, Menlo, Monaco, 'Courier New', monospace",
+  "cSpell.language": "en,ru",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+  },
+  "eslint.format.enable": true,
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "eslint.alwaysShowStatus": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[yaml]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "editor.fontLigatures": false,
+  "window.zoomLevel": 1.2,
+  "editor.fontSize": 14,
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "workbench.colorTheme": "Gruvbox Dark Hard"
+}
