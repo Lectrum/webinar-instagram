@@ -2,13 +2,13 @@
     <a href="https://lectrum.io" target="_blank" rel="noopener noreferrer">
         <img src="./public/logo-woodsmoke.svg" alt="Lectrum favicon" width="25" />
     </a>
-    Воркшоп по React
+    Вебинар по React
 </h1>
 <br>
 
 <div align="center">
     <!-- Last commit -->
-    <img src="https://img.shields.io/github/last-commit/lectrum/react-workshop.svg?longCache=true&style=flat-square" alt="Last commit"
+    <img src="https://img.shields.io/github/last-commit/lectrum/webinar-instagram.svg?longCache=true&style=flat-square" alt="Last commit"
     />
     <!-- Dependencies -->
     <img src="https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg?longCache=true&style=flat-square" alt="Dependencies"
