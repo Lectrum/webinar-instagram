@@ -1,6 +1,6 @@
 .photo {
     cursor: pointer;
-    flex: 1 1 297px;
+    flex: 0 0 33.333%;
     padding: 10px;
 
     & img {
@@ -8,17 +8,14 @@
     }
 
     @media (--phonePortrait) {
-        flex: 1 1 100px;
         padding: 5px;
     }
 
     @media (--phoneLandscape) {
-        flex: 1 1 150px;
         padding: 5px;
     }
 
     @media (--tabletPortrait), (--tabletLandscape) {
-        flex: 1 1 190px;
         padding: 7px;
     }
 }
