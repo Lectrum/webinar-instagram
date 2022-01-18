@@ -6,11 +6,10 @@ import { render } from 'react-dom';
 import './theme/init.css';
 
 // Components
+import { Instagram } from './pages';
 
 render(
-    <div className = 'welcome'>
-        <h1>Проект готов к началу вебинара!</h1>
-    </div>,
+    <Instagram />,
     document.getElementById('root'),
     () => {
         // eslint-disable-next-line no-console
